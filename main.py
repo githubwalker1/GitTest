@@ -64,16 +64,9 @@ def DoneFiles():
 
 
 if __name__ == "__main__":
-    #MakeNewFiles(1)
-    #Need_Change = [1,2]
-    #ReFile(Need_Change)
+    MakeNewFiles(33)
+    #Need_Reback = [1,2]
+    #ReFile(Need_Reback)
     #ReFile(1)
-    print("sssssss")
-    print("sss")
-    print("ss")
-
-
-
-    print("test")
 
     DoneFiles()

@@ -7,5 +7,5 @@ def PrintWrold(string):
 
 
 if __name__ == "__main__":
-    PrintWrold("shjbhhjjhnhhn")
+    PrintWrold(1)
     pass
