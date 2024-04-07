@@ -70,4 +70,7 @@ if __name__ == "__main__":
     #ReFile(1)
 
 
+
+    print("test")
+
     DoneFiles()
